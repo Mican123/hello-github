@@ -1,4 +1,5 @@
-**Santiago Mendoza Villanueva**
+# Prototipo_01
+## Santiago Mendoza Villanueva
 *smendozav@ucompensar.edu.co*
 ´ucompensar´
 
@@ -6,33 +7,37 @@
 En una ciudad, la cantidad de residuos sólidos ha aumentado significativamente debido al crecimiento poblacional y el consumo excesivo. Esto ha generado contaminación en las calles, malos olores y aumento de plagas.
 
 **Arbol de problemas**
+
 ```mermaid
 flowchart TD
-    %% Problema central
-    P["Aumento de residuos sólidos<br/>por crecimiento poblacional y consumo excesivo"]
-
     %% Causas
     C1["Crecimiento poblacional"]
     C2["Consumo excesivo"]
     C3["Deficiente gestión de residuos"]
+
+    %% Problema central
+    P["Aumento de residuos sólidos<br/>por crecimiento poblacional<br/>y consumo excesivo"]
 
     %% Efectos
     E1["Contaminación en calles"]
     E2["Malos olores"]
     E3["Aumento de plagas"]
 
-    %% Relaciones
+    %% Relaciones Causas→Problema
     C1 --> P
     C2 --> P
     C3 --> P
 
+    %% Relaciones Problema→Efectos
     P --> E1
     P --> E2
     P --> E3
+
 ```
 
 
 
+**prompt**
 
 
 
