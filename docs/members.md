@@ -1,7 +1,7 @@
-# hello-github
+# INTEGRANTES 
 
 **samuel mican**
 
-*ingenieria de sistemas*
+**Santiado mendoza**
 
 `Ucompensar`
