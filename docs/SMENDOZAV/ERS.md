@@ -4,10 +4,11 @@
  
 ## Fecha del documento
 | Fecha  | Version  | Autor  | Verificacion  | Observacines  |
-|---|---|---|---|---|                       |               
+|---|---|---|---|---|                                      
 |   |   |   |   |   |                                     
 |   |   |   |   |   |                                    
-|   |   |   |   |   |                                  
+|   |   |   |   |   |  
+
 
 ## Contenido
  
