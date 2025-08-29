@@ -1,1 +1,42 @@
-
+# Especificaciones de requisitos de sofware
+ 
+**Proyecto: **
+ 
+## Fecha del documento
+| Fecha  | Version  | Autor  | Verificacion  | Observacines  |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+## Contenido
+ 
+## 1 Introduccion
+ 
+Todo: 
+ 
+### 1.1 Proposito
+ 
+ 
+ 
+### 1.2 Alcance
+ 
+### 1.3 Persona involucrada
+ 
+| Nombre                 |                                                   |
+|------------------------|----------------------------------------------------------------|
+| Rol                    |                                                     |
+| Categoría Profesional  |                                |
+| Responsdabilidad       |   |
+| Inf Del Contacto       |                                    |
+ 
+### 1.4
+ 
+| Nombre  | Descripción                                          |
+|---------|------------------------------------------------------|
+| Usuario | Persona que usará el sistema para gestionar procesos |
+| ERS     | Especificación de Requisitos Software                |
+| RF      | Requerimiento Funcional                              |
+| RNF     | Requerimiento No Funcional                           |
+ 
+### 1.5
+### 1.6
