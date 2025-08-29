@@ -22,12 +22,12 @@ Todo:
  
 ### 1.3 Persona involucrada
  
-| Nombre                 |                                                   |
+| samuel                 |                                                   |
 |------------------------|----------------------------------------------------------------|
-| Rol                    |                                                     |
-| Categoría Profesional  |                                |
-| Responsdabilidad       |   |
-| Inf Del Contacto       |                                    |
+| Rol                    |   lider                                           |
+| Categoría Profesional  |                                                   |
+| Responsdabilidad       |                                                   |
+| Inf Del Contacto       |                                                   |
  
 ### 1.4
  
