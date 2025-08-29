@@ -27,10 +27,10 @@ El propósito de este análisis es identificar las principales causas y efectos 
  
 | Nombre                 |                                                   
 |------------------------|------------------------------------
-| Rol                    |  subordinado                                                   
-| Categoría Profesional  |  Estudiante                              
-| Responsdabilidad       |  Editor   
-| Inf Del Contacto       | smendozav@ucompensar.edu.co                                   
+| Rol                    |   subordinado                                                   
+| Categoría Profesional  |   Estudiante                              
+| Responsdabilidad       |   Editor   
+| Inf Del Contacto       |  smendozav@ucompensar.edu.co                                   
  
 ### 1.4
  
