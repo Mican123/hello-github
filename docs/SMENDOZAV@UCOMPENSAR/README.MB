@@ -8,45 +8,115 @@ En una ciudad, la cantidad de residuos sólidos ha aumentado significativamente 
 
 **Arbol de problemas**
 
+# Arbol de problemas
 ```mermaid
 graph TD
-    %% Causas
-    C1["Crecimiento poblacional"]
-    C2["Consumo excesivo"]
-    C3["Deficiente gestión de residuos"]
-
-    %% Problema central
-    P["Aumento de residuos sólidos<br/>por crecimiento poblacional<br/>y consumo excesivo"]
-
-    %% Efectos
-    E1["Contaminación en calles"]
-    E2["Malos olores"]
-    E3["Aumento de plagas"]
-
-    %% Relaciones Causas→Problema
-    C1 --> P
-    C2 --> P
-    C3 --> P
-
-    %% Relaciones Problema→Efectos
-    P --> E1
-    P --> E2
-    P --> E3
-
+    A[Problema central: Un compañero mete plata falsa y modifica horas laborales]
+    B[Causas]
+    C[Consecuencias]
+ 
+    A --> B
+    A --> C
+ 
+    B --> B1[No hay sistema que valide autenticidad del dinero]
+    B --> B2[Falta de controles digitales en la caja]
+    B --> B3[Permite cambios manuales sin trazabilidad]
+    B --> B4[Ausencia de auditorías o alertas]
+ 
+    C --> C1[Pérdida de dinero para el negocio]
+    C --> C2[Dificultad para saber responsables]
+    C --> C3[Mal ambiente laboral por desconfianza]
+    C --> C4[Riesgo legal y sanciones]
 ```
 
 **prompt**
+Promp
+
+Quiero que me ayude a crear 3 ideas de negocio que pueda implementar como ingeniero de sistemas, dirigidas a resolver la problemática ambiental en la ciudad por el aumento de residuos sólidos. Quiero que me digas qué problemas resuelve cada idea y cuál es su dinámica.
+
+ Soluciones Tecnológicas
+1. Plataforma de Gestión y Reciclaje Inteligente
+
+Problema:
+La ciudad enfrenta un aumento desmedido de basura en las calles, generando contaminación, malos olores y plagas. Los ciudadanos no tienen claro cómo separar residuos ni dónde llevarlos.
+
+Solución:
+Desarrollar una web + app móvil que funcione como guía de reciclaje y punto de gestión de residuos. Incluye:
+
+Mapa de puntos de reciclaje cercanos.
+
+Recordatorios para sacar la basura en días específicos.
+
+Tutoriales sobre separación de residuos.
+
+Sistema de recompensas (puntos o descuentos) por reciclar correctamente.
+
+Dinámica:
+
+El ciudadano crea un perfil en la app.
+
+Reporta sus desechos y recibe instrucciones personalizadas.
+
+La app geolocaliza y muestra los centros de reciclaje más cercanos.
+
+Los usuarios acumulan puntos que pueden canjear por descuentos en servicios o productos ecofriendly.
+
+2. Sistema IoT de Contenedores Inteligentes
+
+Problema:
+Los camiones de recolección hacen rutas ineficientes, recogiendo contenedores vacíos y dejando otros saturados, lo que genera desbordes de basura.
+
+Solución:
+Implementar contenedores inteligentes con sensores IoT que midan el nivel de llenado y envíen la información en tiempo real a una plataforma central. Así, los camiones solo recogerán los contenedores necesarios.
+
+Dinámica:
+
+Cada contenedor lleva un sensor que mide la capacidad.
+
+Los datos se envían a un servidor en la nube.
+
+Un algoritmo optimiza las rutas de los camiones.
+
+La alcaldía ahorra en combustible y mejora la recolección, reduciendo la acumulación de residuos en las calles.
+
+3. Marketplace de Economía Circular
+
+Problema:
+Muchos productos terminan en la basura aunque podrían tener un segundo uso (ropa, muebles, aparatos electrónicos). Actualmente, no existe un canal confiable para conectar a quienes quieren desechar con quienes necesitan.
+
+Solución:
+Crear un marketplace digital especializado en economía circular, donde las personas puedan regalar, vender o intercambiar objetos que ya no usan en lugar de botarlos.
+
+Dinámica:
+
+Los usuarios publican artículos que desean donar o vender a bajo costo.
+
+Otros usuarios buscan lo que necesitan en la plataforma.
+
+Los pagos y entregas se gestionan de forma segura.
+
+La plataforma obtiene ingresos cobrando una pequeña comisión o ofreciendo membresías premium.
+
+ Idea Seleccionada
+
+Plataforma de Gestión y Reciclaje Inteligente
+
+Problema:
+Los ciudadanos no tienen un sistema claro para separar residuos ni acceso fácil a los puntos de reciclaje, lo que genera acumulación de basura y contaminación.
+
+Solución:
+Desarrollar una app web + móvil que permita a los usuarios aprender a separar residuos, localizar puntos de reciclaje y obtener recompensas por hacerlo bien.
+
+Dinámica:
+
+El usuario crea un perfil y registra sus residuos.
+
+La app indica cómo separarlos y a dónde llevarlos.
+
+Se acumulan puntos por cada entrega, que luego se pueden cambiar por beneficios.
+
+La alcaldía o empresas privadas pueden patrocinar los beneficios para incentivar la participación.
 
 
 
 
-
-
-
-**Tres Soluciones**
-
-Implementar campañas de concientización ciudadana sobre la correcta separación de residuos.
-
-Instalar puntos de reciclaje en lugares estratégicos de la ciudad para facilitar la recolección de materiales reutilizables.
-
-Incentivar programas de compostaje para transformar los desechos orgánicos en abono natural.
