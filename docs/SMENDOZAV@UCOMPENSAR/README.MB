@@ -9,7 +9,7 @@ En una ciudad, la cantidad de residuos sólidos ha aumentado significativamente 
 **Arbol de problemas**
 
 ```mermaid
-flowchart TD
+graph TD
     %% Causas
     C1["Crecimiento poblacional"]
     C2["Consumo excesivo"]
@@ -32,10 +32,7 @@ flowchart TD
     P --> E1
     P --> E2
     P --> E3
-
 ```
-
-
 
 **prompt**
 
