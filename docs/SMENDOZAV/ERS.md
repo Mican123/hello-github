@@ -3,7 +3,7 @@
 **Proyecto: **
  
 ## Fecha del documento
-| Fecha  | Version  | Autor  | Verificacion  | Observacines  |
+| Fecha  | Version  | Autor  | Verificacion  | Observaciones  |
 |---|---|---|---|---|                                      
 |   |   |   |   |   |                                     
 |   |   |   |   |   |                                    
@@ -42,4 +42,5 @@ El propósito de este análisis es identificar las principales causas y efectos 
 | RNF     | Requerimiento No Funcional                           |
  
 ### 1.5
+
 ### 1.6
