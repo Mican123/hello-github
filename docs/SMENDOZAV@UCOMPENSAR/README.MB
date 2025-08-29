@@ -1,1 +1,49 @@
-https://github.com/Mican123/hello-github/tree/integrantes
+**Santiago Mendoza Villanueva**
+*smendozav@ucompensar.edu.co*
+´ucompensar´
+
+**Contexto Problemática**
+En una ciudad, la cantidad de residuos sólidos ha aumentado significativamente debido al crecimiento poblacional y el consumo excesivo. Esto ha generado contaminación en las calles, malos olores y aumento de plagas.
+
+**Arbol de problemas**
+```mermaid
+flowchart TD
+    %% Problema central
+    P["Aumento de residuos sólidos<br/>por crecimiento poblacional y consumo excesivo"]
+
+    %% Causas
+    C1["Crecimiento poblacional"]
+    C2["Consumo excesivo"]
+    C3["Deficiente gestión de residuos"]
+
+    %% Efectos
+    E1["Contaminación en calles"]
+    E2["Malos olores"]
+    E3["Aumento de plagas"]
+
+    %% Relaciones
+    C1 --> P
+    C2 --> P
+    C3 --> P
+
+    P --> E1
+    P --> E2
+    P --> E3
+```
+
+
+
+
+
+
+
+
+
+
+**Tres Soluciones**
+
+Implementar campañas de concientización ciudadana sobre la correcta separación de residuos.
+
+Instalar puntos de reciclaje en lugares estratégicos de la ciudad para facilitar la recolección de materiales reutilizables.
+
+Incentivar programas de compostaje para transformar los desechos orgánicos en abono natural.
