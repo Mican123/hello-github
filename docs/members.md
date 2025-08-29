@@ -2,6 +2,6 @@
 
 **samuel mican**
 
-**Santiado mendoza**
+**Santiago mendoza**
 
 `Ucompensar`
