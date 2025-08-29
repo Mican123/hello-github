@@ -5,6 +5,7 @@ Contexto Problemática
 En una ciudad, la inseguridad ciudadana ha aumentado significativamente debido a la falta de iluminación en las calles, ausencia de patrullaje constante y escasa participación ciudadana en la denuncia de incidentes. Esto ha generado un incremento en los robos, vandalismo y sensación de miedo en la población.
 Árbol de Problemas
 graph TD
+```mermiad
     A[Problema central: Aumento de la inseguridad ciudadana en la ciudad]
     B[Causas]
     C[Consecuencias]
@@ -18,6 +19,7 @@ graph TD
     C --> C2[Sensación de miedo e inseguridad]
     C --> C3[Pérdida económica para comercios]
     C --> C4[Desconfianza en las autoridades]
+````
 Prompt
 Quiero que me ayude a crear 3 ideas de negocio que pueda implementar como ingeniero de sistemas, dirigidas a resolver la problemática de la inseguridad ciudadana. Quiero que me digas qué problemas resuelve cada idea y cuál es su dinámica.
 Soluciones Tecnológicas
